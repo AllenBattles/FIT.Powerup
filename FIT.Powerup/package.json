@@ -1,0 +1,25 @@
+{
+  "name": "fit.powerup",
+  "version": "0.0.0",
+  "description": "FIT.Powerup",
+  "main": "server.js",
+  "author": {
+    "name": "Allen Battles"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "cors": "^2.8.3"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
